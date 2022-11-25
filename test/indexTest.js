@@ -12,7 +12,7 @@ describe("index.js", () => {
   })
 
   it("square arrow function takes one parameter and multiplies it times itself", () => {
-    let x = 2
+    let x = test/indexTest.js
     expect(square(x)).to.equal(4)
   })
 
